@@ -1,3 +1,15 @@
+# Bash
+*.sh linguist-detectable=true linguist-language=bash
+
+# C/C++
+*.c linguist-detectable=true linguist-language=c
+*.cpp linguist-detectable=true linguist-language=cpp
+*.h linguist-detectable=true linguist-language=c
+
+# Python
+*.py linguist-detectable=true linguist-language=python
+
+# SQL
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
 *.sql text
