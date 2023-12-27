@@ -9,6 +9,9 @@
 # Python
 *.py linguist-detectable=true linguist-language=python
 
+# Ruby
+*.r linguist-detectable=true linguist-language=r
+
 # SQL
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
