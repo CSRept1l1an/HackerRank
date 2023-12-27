@@ -10,7 +10,7 @@
 *.py linguist-detectable=true linguist-language=python
 
 # Ruby
-*.rb linguist-detectable=true linguist-language=r
+*.rb linguist-detectable=true linguist-language=ruby
 
 # SQL
 *.sql linguist-detectable=true
