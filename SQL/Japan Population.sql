@@ -1,0 +1,3 @@
+SELECT SUM(Population) as JPNPopulation 
+FROM CITY
+WHERE COUNTRYCODE = 'JPN';
