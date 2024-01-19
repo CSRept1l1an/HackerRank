@@ -6,6 +6,11 @@
 *.cpp linguist-detectable=true linguist-language=cpp
 *.h linguist-detectable=true linguist-language=c
 
+# Java
+*.java linguist-detectable=true linguist-language=java
+*.class linguist-detectable=false
+
+
 # Python
 *.py linguist-detectable=true linguist-language=python
 
